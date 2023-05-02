@@ -1,5 +1,22 @@
 {
   "products": [
-   
+    {
+      "product_image": "https://cdn.shopify.com/s/files/1/0268/8250/6936/products/1_20eb8745-8722-45da-814f-80fde91b860b_1024x.jpg?v=1614887031",
+      "product_name": "Bangali kurti",
+      "product_description": "This is very Good Product with textrural designs on it",
+      "gender": "female",
+      "category": "Kurti",
+      "price": 800,
+      "id": "2"
+    },
+    {
+      "product_image": "https://cdn.shopify.com/s/files/1/0268/8250/6936/products/1_20eb8745-8722-45da-814f-80fde91b860b_1024x.jpg?v=1614887031",
+      "product_name": "Bangali payajama",
+      "product_description": "This is very Good Product with textrural designs on it",
+      "gender": "female",
+      "category": "Kurti",
+      "price": 900,
+      "id": "2"
+    }
   ]
 }
